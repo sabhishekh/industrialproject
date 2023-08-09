@@ -141,7 +141,7 @@
 	}
 
 	.container-fluid {
-	    width: 100%;
+	    
 	    padding-right: 15px;
 	    padding-left: 15px;
 	    margin-right: auto;
@@ -1544,6 +1544,7 @@
 
 	.about-info {
 	    position: relative;
+		margin-bottom: 10%;
 	}
 
 	.about-img-pro {
@@ -5991,4 +5992,41 @@
 	    .sticky-header .logo a img {
 	        max-width: 70%;
 	    }
+	}
+	.img1{
+		border: 1 px solid black;
+		width :300px;
+		height:300px;
+
+	}
+	.img2{
+		border: 1 px solid black;
+		width :300px;
+		height:300px;
+
+
+	}
+	.img3{
+		border: 1 px solid ;
+		width :300px;
+		height:300px;
+
+	}
+	.img4{
+		border: 1 px solid ;
+		width :300px;
+		height:300px;
+
+	}
+	.img5{
+		border: 1 px solid ;
+		width :300px;
+		height:300px;
+
+	}
+	.img6{
+		border: 1 px solid  ;
+		width :300px;
+		height:300px;
+
 	}
